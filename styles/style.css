@@ -6,3 +6,35 @@ Green: #00B172
 White: #FFF
 
 */
+nav{
+    margin: 15px 25px;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+}
+
+header img {
+    width: 210px;
+    margin: 15px 25px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.sectionOneBackground {
+    background-image: url("../images/landing.jpg");
+    background-size: cover;
+    padding:250px;
+    font-size: 2em;
+    text-align: center;
+    color: white;
+}
