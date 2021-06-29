@@ -21,6 +21,7 @@ nav a{
 
 header img {
     width: 210px;
+    height: 50%;
     margin: 15px 25px;
 }
 
@@ -37,4 +38,37 @@ header {
     font-size: 2em;
     text-align: center;
     color: white;
+}
+
+.sectionOneBackground p{
+    font-size: 0.75em;
+    margin-top: 25px;
+}
+
+
+.orangeBox{
+    display:flex;
+    margin: 20px;
+    justify-content: space-evenly;
+}
+
+.secondSection img{
+     width: 80px;
+
+}
+
+.whatsOnSpotifyIcons{
+    margin: 20px;
+    width: 150px;
+    text-align: center;
+}
+.whatsOnSpotifyIcons p{
+    margin-top:10px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    margin-top: 50px;
 }
