@@ -72,3 +72,44 @@ h2{
     margin-bottom: 100px;
     margin-top: 50px;
 }
+
+
+.thirdSection{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding-top: 20px;
+    background-color: #00b172;
+}
+
+.kanyePhoto img{
+    margin: 80px;
+    width: 300px;
+}
+
+.logoBlanco img{
+    justify-content: center;
+    position: relative;
+    margin-top: 350px;
+    margin-right: 50%;
+    width: 100px;
+}
+
+.thirdSection h3 p{
+    border-bottom: 2px solid white;
+    font-size: 1.5em;
+}
+
+.thirdSection h4{
+    font-size: 1.30em;
+    margin-left: 50px;
+}
+
+.thirdSection p{
+    margin: 50px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
